@@ -54,7 +54,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="htmlFixed.html" />
-    <Content Include="index.html" />
+    <Compile Include="index.html" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
