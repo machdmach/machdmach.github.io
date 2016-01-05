@@ -3,4 +3,4 @@ git add .
 git commit -m "a"
 git push
 
-C:\Program Files\Internet Explorer\iexplore
+cmd /k "C:\program files\internet explorer\iexplore.exe"
