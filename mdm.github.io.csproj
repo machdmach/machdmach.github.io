@@ -74,7 +74,7 @@
           <AutoAssignPort>False</AutoAssignPort>
           <DevelopmentServerPort>54321</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:54323/</IISUrl>
+          <IISUrl>http://localhost:54327/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
@@ -85,7 +85,7 @@
     </VisualStudio>
   </ProjectExtensions>
   <PropertyGroup>
-    <PostBuildEvent>c:\temp\git1\push.bat</PostBuildEvent>
+    <PostBuildEvent>REM c:\temp\git1\push.bat</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
     <PreBuildEvent>REM C:\ProgFiles\TaskKillx iexplore.exe</PreBuildEvent>
