@@ -1,0 +1,274 @@
+<html>
+<div class="ms-rteFontSize-3">​​​​​​​​ ​​​<a href="http://www.weather.com/weather/tenday/Las+Vegas+NV+89119">Weather</a>​​​ | 
+   <a href="https://www.google.com/maps/%4036.087774%2c-115.148638%2c13z/data=%215m1%211e1">Traffic</a> ​|​ </div> ​ 
+<div class="ms-rteFontSize-3"> 
+   <a href="http://htmlpal.mutils.net/">HtmlPal</a> ​| 
+   <a href="http://pdf.mutils.net/">PdfPal​</a> ​| 
+   <a href="http://dnn7.mutils.net/">dnn7.mutils​</a> ​| 
+   <a href="http://drupal.mutils.net/">drupal.mutils​</a> ​| </div>
+<p> ​ ​  ​ ​​ </p> ​​​​ 
+<p> 
+   <a title="Service Worker" href="http://www.html5rocks.com/en/tutorials/service-worker/introduction/">http://www.html5rocks.com/en/tutorials/service-worker/introduction/</a></p>
+<p> &#160;</p>
+<div class="ms-rteFontSize-3">​ 
+   <a href="/SpClientWeb/Views/GoToStaging.aspx"> GoToStaging</a> | 
+   <a href="http://ccentspdev08m:9090/Views/ContentMigrator_.aspx">ContentMigrator</a> | 
+   <a href="http://ccisdev18m/sites/it/Lists/Bug%20List/AllItems.aspx">Bug List </a> | 
+   <a href="http://ccsp.co.clark.nv.us/IS/IT/cws/SharePoint%202013%20Migration/Forms/AllItems.aspx"> Update Status </a> | 
+   <a href="http://ccsp.co.clark.nv.us/appsvcs/AppSrvcsPortfolio/SrvcCatalog/Enterprise/InternetServices/SharePoint2013Upgrade/Project%20Documents/%28D%29%20Executing/Testing/SP2013%20UAT%20%20Issues%20Tracking%20Log%20-%20Latest.xlsx">UAT Issue Tracking Log</a> | 
+   <a href="http://ccisdev18m/sites/it/Lists/Deployment%20Targets/AllItems.aspx">Deployment Targets</a> 
+   <table border="1">
+      <tbody>
+         <tr valign="top">
+            <td>
+               <ul>
+                  <li> 
+                     <a href="http://ccentspqa01m/Lists/CC%20Directory/AllItems.aspx"> CC Directory </a> | 
+                     <a href="/SpClientWeb/StaticViews/sites_links.htm">WorkFlows </a> | 
+                     <a href="/SpClientWeb/Views/Misc.aspx">Misc</a> | </li>
+                  <li> 
+                     <a href="http://ccentspqa01m/public-communications/media/Lists/Videos/AllItems.aspx">  qa01m Videos </a>                        | 
+                     <a href="http://spauthoring.co.clark.nv.us/public-communications/media/Lists/Videos/AllItems.aspx">  Prod Videos </a>                        | 
+                     <a href="http://ccentspqa01m/public-communications/media/_layouts/15/viewlsts.aspx">  qa01m Media </a>                        | 
+                     <a href="http://staging-internet.co.clark.nv.us:2010/mediaconsole/_layouts/viewlsts.aspx">  staging MediaConsole </a>                        | 
+                     <a href="http://ccentspqa01m/ccdc/Lists/Videos2/AllItems.aspx">  ccdc videos2 </a>                        | </li>
+                  <li> 
+                     <a href="http://ccisdev18m/sites/it/Lists/SP2013%20Change%20Management/Outstanding%20Items.aspx">  SP2013 Change Mgmt </a> | 
+                     <a href="http://www3.clarkcountynv.gov/index.html">  SP2013 Change Mgmt </a> | 
+                     <a href="http://ccisdev18m/sites/it/Lists/SP2013%20Change%20Management/Outstanding%20Items.aspx">  SP2013 Change Mgmt </a> | </li>
+               </ul>
+            </td>
+            <td>
+               <ul>
+                  <li> 
+                     <a href="http://www.clarkcountynv.gov/depts/Pages/default.aspx">Prod -- Departments</a><br/><a href="http://staging-internet.co.clark.nv.us:2010/depts/Pages/default.aspx">Staging -- Departments</a> </li>
+               </ul>
+            </td>
+            <td>
+               <br/>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <hr/>
+   <table border="1" cellspacing="0" cellpadding="0" style="width: 100%;">
+      <tbody>
+         <tr valign="top">
+            <td>
+               <ul>
+                  <li>
+                     <a href="https://clarkcounty.service-now.com/">Service Now</a> ​ 
+                     <br/> </li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li>
+                     <a href="http://server1/SpClientWeb">SpClientWeb</a></li>
+                  <li>
+                     <a href="http://server2/DbPal/Views/DbTablesUI.aspx">DbPal</a></li>
+                  <li>
+                     <a href="http://server2/DnnPal/Views/Main.aspx">DnnPal</a></li>
+                  <li>
+                     <a href="http://server2/SecurityPal/Views/DirectorySearcherUI.aspx">SecurityPal</a></li>
+                  <li>
+                     <a href="http://server2/HtmlPal/Views/HTMLPal_.aspx">HtmlPal</a></li>
+                  <li>
+                     <a href="http://server2/LoggingPal/WebConsole/SearchConsole.aspx">LoggingPal</a></li>
+                  <li>
+                     <a href="http://server2/WebApp1/Plugins/FSExplorer/FSExplorer_.aspx">FSExplorer</a></li>
+                  <li> 
+                     <a href="https://sites.google.com/site/bmprogramming/html/colors">Colors</a> </li>
+                  <li>
+                     <a href="http://server2/WebApp1/Plugins/AspNetEvents/WebForm1.aspx">AspNetEvents</a></li>
+                  <li> 
+                     <a href="http://server2/WebApp1/Plugins/FormatPal/FormatPal_.aspx">FormatPal </a> | 
+                     <a href="http://server2/WebApp1/Plugins/RegexPal/RegexPal_.aspx">RegexPal </a> </li>
+                  <li> 
+                     <a href="http://server2/WebApp1/Plugins/CSharpCodePal/CSharpCodePal_.aspx"> CSharpCodePal </a> </li>
+                  <li> 
+                     <a href="http://server2/WebApp1/Plugins/StackTracePal/StackTracePal_.aspx"> StackTracePal </a> </li>
+                  <li> 
+                     <a href="http://server2/WebApp1/Plugins/ReflectionPal/ReflectionPal_.aspx">ReflectionPal</a> </li>
+                  <li> 
+                     <a href="http://server2/WebApp1/Plugins/CryptoPal/CryptoPal_.aspx">CryptoPal</a> </li>
+                  <li>
+                     <a href="http://server2/WebApp1/Plugins/Which/Which_.aspx">Which </a></li>
+                  <li>
+                     <br/>
+                  </li>
+                  <li>
+                     <a href="https://vle.securingthehuman.org/mod/client/auth/login.php">SANS Training</a></li>
+                  <li>
+                     <a href="http://gisgate.co.clark.nv.us/openweb/">GIS Gate</a></li>
+                  <li>
+                     <a href="http://it.ojp.gov/default.aspx">OJP Office of Justice Program</a></li>
+                  <li>
+                     <a href="http://www2.co.clark.nv.us/department/it/PoliciesProcedures.html">IT Policies</a></li>
+                  <li> 
+                     <a href="http://server2/WebApp1/homepage.htm"> HomePage on Server2 </a> </li>
+               </ul>
+            </td>
+            <td>
+               <ul>
+                  <li>
+                     <a href="http://validator.w3.org/"> Html W3 validator</a></li>
+                  <li>
+                     <br/>
+                  </li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li>
+                     <a href="http://defcomp.nv.gov/">http://defcomp.nv.gov/</a></li>
+                  <li> 
+                     <a href="http://ccsp.co.clark.nv.us/JPS/SWRJISS/Shared%20Documents/Forms/AllItems.aspx?RootFolder=/JPS/SWRJISS/Shared%20Documents/WVS%20Project%20documents&amp;FolderCTID=&amp;View=%7b870CF066-6BE3-4C5C-AD3F-36BC208678EA%7d"> Sharepoint scope </a> </li>
+                  <li> 
+                     <a href="http://ccsp.co.clark.nv.us/JPS/SWRJISS/Shared%20Documents/Forms/AllItems.aspx"> CC Sharepoint </a> </li>
+                  <li> 
+                     <a href="http://clarkcountynv.claritynet.com/ASP/LAUNCHPAD/login.asp"> ClarityNet 630846/A-1 </a> </li>
+                  <li>
+                     <a href="http://jsonlint.com/">JSON Lint </a></li>
+                  <li>
+                     <a href="http://blog.torresdal.net/category/wif/">WIF</a></li>
+                  <li>
+                     <a href="https://www.youtube.com/watch?v=v2ifWcnQs6M">Douglas Crockforat - Javascript</a></li>
+                  <li>
+                     <a href="https://www.youtube.com/watch?v=ljNi8nS5TtQ">GoogleTalk - JavaScript</a></li>
+                  <li> 
+                     <a href="http://www.codeproject.com/Articles/167159/How-to-create-a-JSON-WCF-RESTful-Service-in-60-sec"> JSON WCF REst Service </a> </li>
+                  <li> 
+                     <a href="http://www.brentozar.com/archive/2011/07/mystery-of-query-timeouts-video/"> SQL Query Timeout </a> </li>
+                  <li> 
+                     <a href="http://demos.telerik.com/aspnet-ajax/combobox/examples/overview/defaultcs.aspx"> Telerik Ajax Demos </a> </li>
+                  <li>
+                     <a href="http://en.wikipedia.org/wiki/HTML5">html 5</a></li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li> 
+                     <a href="http://msdn.microsoft.com/en-us/library/hh873304.aspx"> WIF ClaimsPrincipal Net4.5 </a> </li>
+                  <li>
+                     <a href="http://www.microsoftvirtualacademy.com/MyMVA/Dashboard.aspx">Microsoft Virtual Academy</a></li>
+               </ul>
+            </td>
+            <td>
+               <ul>
+                  <li> 
+                     <a href="https://sts.dev.scopenv.us/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn:dev-scopenv-debug3&amp;wctx=https://jpsdevdbug03m.dev.scopenv.us/_layouts/Authenticate.aspx?Source%3d%252F">jpsdevdbug03m bypass</a> | 
+                     <a href="https://jpsdevdbug03m.dev.scopenv.us/">jpsdevdbug03m</a> </li>
+                  <li>
+                     <a href="https://jpsdevdbug03m.dev.scopenv.us/aTest1.htm">jpsdevdbug03m aTest1</a></li>
+                  <li>
+                     <a href="https://sts.dev.scopenv.us/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn:dev-scopenv-wvs2:adfs&amp;wctx=https://jpsdevwvs02m.dev.scopenv.us/_layouts/Authenticate.aspx?Source%3d%252F">jpsdevwvs02m</a></li>
+                  <li> 
+                     <a href="https://sts.dev.scopenv.us/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn:dev-scopenv-bld:adfs&amp;wctx=https://jpswvsbld01m.dev.scopenv.us/_layouts/Authenticate.aspx?Source%3d%252F">jpswvsBLD01m</a> | 
+                     <a href="https://jpswvsbld01m.dev.scopenv.us/">jpswvsBLD01m</a> </li>
+                  <li>
+                     <a href="https://jpswvsstg01m.dev.scopenv.us/">jpswvsSTG01m</a></li>
+                  <li> 
+                     <a href="http://jpsdevbt01m.dev.scopenv.us/ScopeIIJLinkWVS/LEXSService.svc"> ScopeIIJLinkWVS jpsdevbt01m </a> </li>
+                  <li>
+                     <a href="http://jpsdevtf01m.dev.scopenv.us:8080/tfs/web/">TFS Web</a></li>
+                  <li> 
+                     <a href="http://jpsdevpl01m.dev.scopenv.us/DataExchange/DataExchangeService.svc"> dev PictureLink DataExchangeService </a> </li>
+                  <li> 
+                     <a href="http://jpstestpl01m.test.scopenv.us/DataExchange/DataExchangeService.svc"> test PictureLink DataExchangeService </a> </li>
+                  <li> 
+                     <a href="https://sts.dev.scopenv.us/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn:Dev-Scopenv:adfs&amp;wctx=https://scopeii.dev.scopenv.us"> scopeii.dev.scopenv.us </a> </li>
+                  <li> 
+                     <a href="https://sts.test.scopenv.us/adfs/ls/?wa=wsignin1.0&amp;wtrealm=urn:Test-Scopenv:adfs&amp;wctx=https://scopeii.test.scopenv.us"> scopeii.test.scopenv.us </a> </li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li>
+                     <a href="http://jpsdevbt01m.dev.scopenv.us/SCOPEII.BizTalk.R1I2/">http://jpsdevbt01m SCOPEII.BizTalk.R1I2/</a></li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li>
+                     <a href="http://jpstestbt01m.test.scopenv.us/ScopeIIJlink/wcfdx.aspx">http://jpstestbt01m PPL JLINK wcfdx.aspx</a><br/></li>
+                  <li>
+                     <a href="/SitePages/Page1.aspx"></a> 
+                     <br/></li>
+                  <li> 
+                     <a href="http://ccsp.co.clark.nv.us/JPS/SWRJISS/Design/Forms/AllItems.aspx?RootFolder=/JPS/SWRJISS/Design/Module%20Design%20Specifications/Archive-Baseline&amp;FolderCTID=&amp;View=%7b9D2019A4-758E-4BAD-ADBD-F3FFA8F26DFA%7d"> ccsp SCOPE Design Docs </a> </li>
+                  <li> 
+                     <a href="http://ccsp.co.clark.nv.us/JPS/SWRJISS/Shared%20Documents/Forms/AllItems.aspx?RootFolder=/JPS/SWRJISS/Shared%20Documents/WVS%20Project%20documents/ProjectManagement&amp;FolderCTID=&amp;View=%7b870CF066-6BE3-4C5C-AD3F-36BC208678EA%7d"> ccsp WVS design docs </a> </li>
+               </ul>
+            </td>
+            <td>
+               <ul>
+                  <li>
+                     <a href="http://ccentspdev04m/"> ccentspdev04m</a> </li>
+                  <li>
+                     <a href="http://ccentspdev04m/site1/_layouts/15/settings.aspx"> ccentspdev04m/site1</a> </li>
+                  <li>
+                     <a href="http://ccentspdev04m:60000/"> Admin  ccentspdev04m:60,000</a></li>
+                  <li>
+                     <a href="http://ccentspdev04m:8081/"> AppDev ccentspdev04m:8081</a> </li>
+                  <li>
+                     <a href="http://ccentspqa01m/_layouts/15/mngsubwebs.aspx"> ccentspqa01m sites </a> </li>
+                  <li>
+                     <a href="http://sptraining1.co.clark.nv.us/"> sptraining QA1</a> </li>
+                  <li>
+                     <a href="http://sptraining2.co.clark.nv.us/"> sptraining QA2</a> </li>
+                  <li>
+                     <a href="http://spauthoring.co.clark.nv.us/"> spauthoring PROD</a> </li>
+                  <li>
+                     <a href="http://ccsp.co.clark.nv.us/appsvcs/AppSrvcsPortfolio/SrvcCatalog/Enterprise/InternetServices/SharePoint2013Upgrade/Project%20Documents/Forms/AllItems.aspx/">Sharepoint Upgrade Docs</a></li>
+                  <li>
+                     <a href="https://listserv.co.clark.nv.us/"> listserv.co.clark.nv.us</a> </li>
+                  <li> 
+                     <a href="http://www.clarkcountynv.gov/">ClarkCountyNV.gov</a> </li>
+                  <li> 
+                     <a href="http://172.20.100.170/">172.20.100.170 ccentweb01m</a> </li>
+                  <li> 
+                     <a href="http://172.20.100.171/">172.20.100.171 ccentweb02m</a> </li>
+                  <li> 
+                     <a href="http://staging-internet.co.clark.nv.us:2010/">staging-internet</a> </li>
+                  <li>
+                     <br/>
+                  </li>
+                  <li>
+                     <a href="/DNN_Platform"> http://localhost/DNN_Platform </a></li>
+                  <li>
+                     <a href="/dnn731a"> http://localhost/dnn731a </a></li>
+                  <li>
+                     <a href="/dnn1"> http://localhost/dnn1/ </a></li>
+                  <li> 
+                     <a href="http://mytest1.co.clark.nv.us/">http://mytest1.co.clark.nv.us</a> | 
+                     <a href="https://mytest1.co.clark.nv.us/DesktopModules/AuthenticationServices/ActiveDirectory/WindowsSignIn.aspx">Login</a><br/> \\ccisdev20m\d$\inetpub\wwwroot\intranet </li>
+                  <li> 
+                     <a href="https://ccentqa18m/">https://ccentqa18m</a> | 
+                     <a href="https://ccentqa18m.co.clark.nv.us/DesktopModules/AuthenticationServices/ActiveDirectory/WindowsSignIn.aspx">Login</a> </li>
+                  <li> 
+                     <a href="http://www2/">www2</a> Kryptonite 
+                     <br/> HR bargaining contract: 
+                     <br/> \\internalservices\d$\inetpub\wwwroot\PCR 
+                     <br/> </li>
+                  <li> 
+                     <a href="https://myintranet.co.clark.nv.us/">https myintranet co clark.nv.us/</a> | 
+                     <a href="https://myintranet.co.clark.nv.us/DesktopModules/AuthenticationServices/ActiveDirectory/WindowsSignIn.aspx">Login</a><br/> \\CCENTapps18m\d$\inetpub\wwwroot\intranet </li>
+               </ul>
+            </td>
+         </tr>
+      </tbody>
+   </table>
+   <pre>
+   </pre> WVS code search: CreateSearchQuery(): RANK() OVER (PARTITION BY a step1_ 
+   <pre>            &lt;table border=&#39;1&#39; style=&#39;padding:3px; border-collapse:collapse;border-spacing:0&#39;&gt;
+            &lt;tr&gt;
+                &lt;td&gt;
+                &lt;/td&gt;
+                &lt;td&gt;
+                &lt;/td&gt;
+            &lt;/tr&gt;
+        &lt;/table&gt;
+                //z===================================================================================================
+        </pre> xcopy /y C:\ws\MProjects\WebApps\HomePage.htm  \\server2\c$\inetpub\websites\WebApp1\HomePage.htm 
+   <br/>
+   <br/>
+   <br/>columljljljkljkljkljkn2<br/> </div> 
+<br/>
+<br/>
+</html>
