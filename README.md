@@ -6,7 +6,7 @@
 machdmach.github.io
 
 zhead tag <br>
-&lt;base href="http://www.clarkcountyNV.gov/"&gt;
+a http://www.clarkcountyNV.gov b
     
     
 # machdmach.github.i
