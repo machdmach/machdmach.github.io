@@ -1,5 +1,5 @@
 
-[a machdmach.github.io](https://machdmach.github.io)
+[machdmach.github.io](https://machdmach.github.io)
 
 machdmach.github.io
 
